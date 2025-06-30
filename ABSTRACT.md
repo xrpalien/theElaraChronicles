@@ -28,7 +28,7 @@ Four out of five stories (Google Gemini 2.5 Flash, OpenAI GPT 4.5, Anthropic Cla
 
 ### Recurring Protagonist Names
 
-A particularly striking observation, and the inspiration for the repository's name "The Elara Chronicles," was the frequent recurrence of similar-sounding names for the lead or most important character. Names such as Elara, Elena, and Leora appeared across multiple models' outputs, suggesting a subtle but consistent preference for these phonetic patterns when generating key character identities.
+A particularly striking observation, and the inspiration for the repository's name "The Elara Chronicles," was the frequent recurrence of similar-sounding names for the lead or most important character. Names such as Elara, Elena, and Lenora appeared across multiple models' outputs, suggesting a subtle but consistent preference for these phonetic patterns when generating key character identities.
 
 ### Human-AI Relationship Arc
 
